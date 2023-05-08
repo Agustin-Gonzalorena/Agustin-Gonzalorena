@@ -15,7 +15,7 @@
 ```js
 const agustin={
   location:"Buenos Aires - Argentina",
-  skills:[Trabajo en equipo, responsable, dedicado, apacionado],
+  skills:[Trabajo en equipo, Responsable, Dedicado, Apacionado],
   code:[Javascript,Typescript,HTML,CSS,Php],
   tools:[React,Angular,Boostrap,Angular Material,MySQL,Git],
 }
