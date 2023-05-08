@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2>¡Hola, soy Agustin Gonzalorena! <img src=https://user-images.githubusercontent.com/108542215/236871721-a3b014b3-3ba6-44d5-8089-e6a8cc18224b.gif width="50"></h2>
+<img align='right' src=https://user-images.githubusercontent.com/108542215/236872799-f46ceb31-fe98-4161-be12-7dc37267c665.gif width="230">
 
-<!--
-**Agustin-Gonzalorena/Agustin-Gonzalorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Estudiante Tecnicatura en Desarrollo de Aplicaciones Informáticas <a href="https://exa.unicen.edu.ar/tudai/">Universidad UNICEN</a></em></p>
 
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/agustin-gonzalorena/)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br>
+
+<p>Desarrollador Full Stack en crecimiento, apacionado por la tegnologia y el desarrollo web</p>
+
+```js
+const agustin={
+  location:"Buenos Aires - Argentina",
+  skills:[Trabajo en equipo, responsable, dedicado, apacionado],
+  code:[Javascript,Typescript,HTML,CSS,Php],
+  tools:[React,Angular,Boostrap,Angular Material,MySQL,Git],
+}
+
+```
