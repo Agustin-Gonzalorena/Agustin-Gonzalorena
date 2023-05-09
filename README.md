@@ -10,7 +10,7 @@
 
 <br>
 
-<h4>Desarrollador Full Stack en crecimiento, apacionado por la tegnologia y el desarrollo web.</h4>
+<h4>Desarrollador Full Stack en crecimiento, apacionado por la tecnología y el desarrollo web.</h4>
 
 ```js
 const agustin={
