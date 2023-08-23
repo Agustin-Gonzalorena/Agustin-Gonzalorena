@@ -11,7 +11,7 @@
 
 <br>
 
-<h4>Desarrollador web Full Stack en crecimiento, apacionado por la tecnología y el desarrollo web.</h4>
+
 
 ```js
 const agustin={
