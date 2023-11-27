@@ -4,7 +4,7 @@
 <p><em>Estudiante Tecnicatura en Desarrollo de Aplicaciones Informáticas <a href="https://exa.unicen.edu.ar/tudai/">Universidad UNICEN</a></em></p>
 
 - [LinkedIn](https://www.linkedin.com/in/agustin-gonzalorena/)
-- [Portfolio](https://portfolio-agustin-gonzalorena.vercel.app/)
+- [Portfolio](https://agustingonzalorena.vercel.app/)
 <br>
 
 ---
