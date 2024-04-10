@@ -32,15 +32,15 @@
   </a>  
   <img width="13" align="left"  />  
   <a href="https://tailwindcss.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  align="left"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  align="left"  />
   </a>  
   <img width="13"  align="left" />  
   <a href="https://nodejs.org/en">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  align="left"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  align="left"  />
   </a>
   <img width="13" align="left"  />
   <a href="https://expressjs.com/es/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"   align="left" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"   align="left" />
   </a>
   <img width="13"  align="left" />
   <a href="https://www.w3schools.com/html/default.asp">
