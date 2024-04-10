@@ -12,9 +12,8 @@
 
 <br>
 
+### Lenguajes y Tecnologias
 
-
-### Lenguajes y Tecnologias  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="13" />
@@ -49,8 +48,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Agustin-Gonzalorena/Agustin-Gonzalorena/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agustin-Gonzalorena/Agustin-Gonzalorena/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agustin-Gonzalorena/Agustin-Gonzalorena/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Agustin-Gonzalorena/Agustin-Gonzalorena/output/snake.svg" />
+</picture>
+</div>
 ###
 ###
 
@@ -60,4 +64,4 @@
 
 ###
 
-<br/>  
+<br/>
